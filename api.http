@@ -1,0 +1,8 @@
+GET http://localhost:3000/tweets
+###
+POST http://localhost:3000/tweets
+###
+PUT  http://localhost:3000/tweets
+###
+DELETE http://localhost:3000/tweets
+
